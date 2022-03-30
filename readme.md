@@ -183,4 +183,4 @@ with others so that they can be helped.
 
 </p>
 
-### Check the complete tutorial and usage on [discord](https://discord.gg/Pqd68PMYK3)
+### Connect with me on [discord](https://discord.gg/Pqd68PMYK3)
