@@ -184,3 +184,4 @@ with others so that they can be helped.
 </p>
 
 ### Connect with me on [discord](https://discord.gg/Pqd68PMYK3)
+### See Wiki Notes for next steps to take (Still to add this once I have completed the full set up) 
